@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title>
+            Article Three| Rushabh
+        </title>
+    </head>
+    <body>
+        <div>
+            <a href="/">Home</a>
+        </div>
+        <hr/>
+        <h3>
+            Article-Three
+        </h3>
+        <div>
+            Sep 13,2017
+        </div>
+        <div>
+            <p>
+                This is the content for my third article.This is the content for my third article.This is the content for my third article.
+                This is the content for my third article.This is the content for my third article.This is the content for my third article.
+            </p>
+            <p>
+              This is the content for my third article.This is the content for my third article.This is the content for my third article.
+              This is the content for my third article.This is the content for my third article.This is the content for my third article.
+            </p>
+            <p>
+                This is the content for my third article.This is the content for my third article.This is the content for my third article.
+                This is the content for my third article.This is the content for my third article.This is the content for my third article.
+            </p>
+            
+        </div>
+    </body>
+</html>
