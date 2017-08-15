@@ -1,7 +1,7 @@
 console.log('Loaded!');
 var element = document.getElementById("main-text");
 element.innerHTML = "New HTml Edited";
-var img = document.getElementById("img");
-img.onlclick = function(){
+var img = document.getElementById("rus");
+rus.onlclick = function(){
   img.style.marginLeft = '100px';  
 };
